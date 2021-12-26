@@ -1,0 +1,1 @@
+O objetivo dessa aplicação é desenvolver uma animação Jumping Ball, em HTML e CSS, como forma de praticar o desenvolvimento front end.
